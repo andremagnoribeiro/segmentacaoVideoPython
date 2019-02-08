@@ -1,0 +1,21 @@
+What are
+Smart Cyber Physical Systems?
+
+- ”The next generation embedded ICT systems that are
+interconnected and collaborating, providing citizens and businesses
+with a wide range of innovative applications and services” [H2020]
+
+- Large—scale software intensive and pervasive systems, combine
+various data sources to efficiently control real-world ecosystems
+
+' Have to operate under uncertainty
+
+' Equipped with intelligence to deal with environment dynamics,
+control their emergent behavior, and tolerant to threats
+
+' Deliver the "best possible" service in a given situation.
+
+Constitute systems that are supposed to address many
+
+environmental and societal challenges — smart energy, smart
+mobility, ambient assisted living

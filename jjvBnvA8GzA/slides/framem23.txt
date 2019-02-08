@@ -1,0 +1,17 @@
+What are Cyber Physical Systems?
+
+CPS — systems of collaborating computational
+elements controlling physical entities
+
+Control usually involves feedback loops
+
+Combine multiple disciplines
+— Physical (continuous/discrete dynamics) 1 i1; 1-
+
+— Electrical/electronic ‘
+— Communication . ' "—
+— Software '
+
+' Real-time, Sensing and signal processin ,
+Control, Cognition, Distributed decision
+Self-awareness, Self-adaptability

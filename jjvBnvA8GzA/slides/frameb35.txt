@@ -1,0 +1,15 @@
+Perspectives on being ”Smart”
+
+CPS 5C level architecture
+[Lee, Bagheri, Kao, 2014]
+
+Cyber-physical convergence
+[Conti et al., 2012]
+
+Self—adaptability
+
+(e.g., Rainbow framework) [Cheng et al, 2004]
+
+Ad-hoc self-organization
+E.g. autonomic component ensembles
+[EU ASCENS project]

@@ -1,0 +1,25 @@
+Bibliography
+
+E. A. Lee, ”Cyber Physical Systems: Design Challenges,” in Proc. of ISORC’OS, 2008,
+pp. 363—369.
+
+J. Lee, B. Bagheri, and H.-A. Kao, ”A Cyber-Physical Systems architecture for
+Industry 4.0»based manufacturing systems,” Manufacturing Letters, vol. 3, pp. 18—
+23, Jan. 2015.
+
+M. Conti, S. K. 035, C. Bisdikian, M, Kumar, L. M. Ni, A. Passarella, G. Roussos, G.
+Tréster, G. Tsudik, and F. Zambonelli, ”Looking ahead in pervasive computing:
+Challenges and opportunities in the era of cyber—physical convergence," Pervasive
+and Mobile Computing, vol. 8, no. 1, pp. 2—21, Feb. 2012.
+
+5. Cheng, A. Huang, D. Garlan, B. Schmerl, and P. Steenkiste, "Rainbow:
+Architecture—based self—adaptation with reusable infrastructure,” IEEE Computer,
+vol. 37, pp. 46—54, 2004.
+
+M. Wirsing, M. Hélzl, N. Koch, and P. Mayer, Software Engineering for Collective
+Autonomic Systems (The ASCENS Approach), LNCS 8998, ISBN 978-3-319-16309-3
+
+Proceedings of SEsCPS:
+http://ieeexDlore.ieee.org/Xp|/mostRecentlssue.jsp?punumber=7173534
+
+Links to resources: http:[1d3s.mfﬁcuni.cz[conferences[sescps

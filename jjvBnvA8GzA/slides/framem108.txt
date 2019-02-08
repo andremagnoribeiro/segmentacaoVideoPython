@@ -1,0 +1,16 @@
+Uncertainty
+
+- sCPS are subject to a variety of uncertainties
+— Changing or new requirements
+— Environment / context dynamics
+— Modeling uncertainty
+— Uncertainty in code
+
+-— Behavior uncertainty
+
+' Uncertainty due to humans in the loop
+- Emergent behavior of composite system
+- Uncertainty about the adaptation of the system
+
+— Infrastructure uncertainty
+— Among other types...

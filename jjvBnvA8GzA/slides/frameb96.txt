@@ -1,0 +1,19 @@
+Pragmatic and Systematic Engineering
+
+- Key mismatch problem in CPS
+
+— Software engineers and the domain experts speak
+different languages
+
+- Common practice
+
+— The domain experts build a system
+
+— When they’re desperate, they call in a software engineer
+to try to fix the problem
+
+— The software engineer has to become immersed in the
+domain
+
+- Recent anecdotal efforts hint at interdisciplinary teams
+that start with domain experts and software engineers

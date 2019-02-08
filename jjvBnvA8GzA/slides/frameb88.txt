@@ -1,0 +1,23 @@
+Human in the Loop
+
+. Different "types of if}! a \
+“I Design Runtimo
+
+humans" in CPS
+— Engineers 3 Wm“ ‘ u...“ 8
+- Create and evolve CPS
+
+— End users
+0 State and change requirements
+- Use the system
+
+— System-external humans
+
+- Are influenced by the CPS (e.g. pedestrians in context of
+autonomous driving)
+
+- How to handle awareness of changes?
+- How should a notification model look like?
+
+— How to involve humans in decision making and high—
+quality feedback to CPS?

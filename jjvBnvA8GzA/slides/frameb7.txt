@@ -1,0 +1,25 @@
+Welcome to today's ACM SIGSOFT Webinar
+Software Engineering for Smart Cyber Physical Systems
+
+The presentation starts at the top of the hour and lasts 60 minutes. Slides will advance automatically
+throughout the event. You can resize the slide area as well as other windows by dragging the bottom
+right corner of the slide window, as well as move them around the screen,
+
+If you are experiencing any problems/issues, refresh your console by pressing the F5 key on your
+keyboard in Windows, Command+R if on a Mac, or refresh your browser if you’re on a mobile device; or
+close and re-Iaunch the presentation. You can also view the Webcast Help Guide, by clicking on the
+”Help" widget in the bottom dock.
+
+If you think of a question during the presentation, please type it into the Q&A box and click on the
+submit button. You do not need to wait until the end ofthe presentation to begin submitting questions.
+
+You can download a copy of these slides by clicking on the Resources widget in the bottom clock.
+
+This session is being recorded and will be archived for onedemand viewing in the next 1—2 days. You will
+receive an automatic email notification when it is available,
+
+Information on future and past webinars is found at:
+
+7 htt : www.si soft.or resources webinarshtml
+
+— httpﬂlearning.acm.org[webinar

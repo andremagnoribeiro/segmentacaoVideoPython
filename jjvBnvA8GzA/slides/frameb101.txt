@@ -1,0 +1,21 @@
+Pragmatic and Systematic Engineering
+
+' Can we leverage ”smartness" to obtain high quality
+systems?
+
+— The system may have some flaws, as long as it has smartness
+allowing the system to recover or repair itself
+
+- Can we derive models that are inherently compose-able?
+
+— To support open-endedness and evolution of CPS
+
+— Based on component ”premises, " the ”connectors” could
+account for consistency, timing, security, etc.
+
+- Need for seamless integration of design and runtime
+
+— Improve design-time techniques and make them accessible to
+domain experts
+
+— Support run-time monitoring and adaptation

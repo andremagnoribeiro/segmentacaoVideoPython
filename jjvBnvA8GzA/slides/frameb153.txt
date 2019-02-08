@@ -1,0 +1,22 @@
+Thanks for attending this ACM SIGSOFT Webinar!
+Software Engineering for Smart Cyber Physical Systems
+
+- Information on future and past SIGSOFT webinais is found at:
+
+— htt : www.si softior resources webinarshtml
+
+' Sep 16, 12pm EDT: Teaching Future Software Developers
+— Speaker: vaclav Rajlich, Wayne State University
+
+- Sep 30, 12pm EDT: Probabilistic Programming: Algorithms, Applications and
+Synthesis
+
+A Speaker: Aditya Nori, Senior Researcher, Microsoft Research India
+
+- Oct 7, 12pm EDT: TBD
+
+— Speaker: Jane CIeIand-Huang, Associate Professor, Depaul University
+
+' Oct 23, 12pm EDT: TBD
+
+7 Speaker: Ken Anderson, Assistant Professor, U of Colorado Boulder

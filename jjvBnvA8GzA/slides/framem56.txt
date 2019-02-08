@@ -1,0 +1,22 @@
+Modeling, Testing and Verification
+
+° Uncertainty in CPS is multi—faceted
+
+— E.g., Framework for uncertainty based on fuzzy logic taking into
+account component input, output, behavior and composition
+
+° High-level application requirements vs resource-
+Iimited microcontrollers
+
+— E.g., Expose ”components" as services in resource-limited
+microcontrollers
+
+A Model-based Approach forth: Speciﬁmlion afa Virtual Power Plant Operating in Open Context, v. Koutsounipas, TUM, Germany
+
+Towards Cyber-thsical Systems as Services: the ASIP Pratoml, M. Bordani, M. Banana, B. Fields, N. Gomgiannis, M. Margolis, G. Primiem, F.
+Raimnndi, Ocado Gruup and Middlesex University, United Kingdom
+
+Accelerating Regression Testing for Scaled Sell-Driving Cars with Lightweight \mualization — A Case study, Ct Berger, University of Gothenburg,
+Sweden
+
+Verification and Validation in Oyher Physical Systems: Research challenges and a Way Forward, x. zheng c. lulien, University of Texas, USA

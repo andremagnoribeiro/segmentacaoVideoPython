@@ -1,0 +1,22 @@
+Human in the Loop
+
+° Different "types of 15;; _ \
+humans" in CPS ”"9" a mum
+_ Engineers a W «”8
+
+- Create and evolve CPS
+
+— End users
+0 State and change requirements
+- Use the system
+
+— System-external humans
+
+- Are influenced by the CPS (eg. pedestrians in context of
+autonomous driving)
+
+- How to handle awareness of changes?
+- How should a notification model look like?
+
+— How to involve humans in decision making and high—
+quality feedback to CPS?

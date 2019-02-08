@@ -1,0 +1,26 @@
+Faults and Conflicts
+
+° Localization of faults in models
+
+— E.g., Use statistical models for normal behavior; identify and trace
+variables that cause adverse and anomalous events
+
+° Conflicts in cooperation of CPS
+
+— E.g., Employ and check metadata to handle conflicts of actuating
+the same physical entity in different ways
+
+- Conflicts in specifications when CPS evolve
+
+— E.g., Versioning and linking of engineering artifacts to cope
+with multiple heterogeneous engineering domains
+
+- Fault Localization in Embedded control system software, K. Llang, 2. gal, M. c. Cavosoglu, A. Podgurski, 5. my, case Western Resewe
+
+University, USA
+- Ari Apnlimtiun Conﬂict Detection and Resolmiun System for Smart Homes, M. Vagita, E lshikawa, s. Honiden, Nallnnal Institute of Informatics
+
+and the university of Ynkvo, Japan
+- Velsioning in Cyber-Physlcal production System Engineering? Best-Practice and Research Agenda, R. Mordinvi, s. Bifﬂ, Vienna University of
+
+Technology Austria

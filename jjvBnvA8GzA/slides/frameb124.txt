@@ -1,0 +1,16 @@
+Wrap—up
+
+- Long term challenges include:
+
+— Understand the alignment of disciplines and
+identify languages, models, methods, etc. to
+handle this
+
+— Understand and realize the perpetuability
+perspective on engineering sCPS
+
+— Define prototypical applications to evaluate and
+compare new methods, techniques and tools
+
+- SEsCPS aims at creating a forum which will make
+this possible

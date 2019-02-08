@@ -1,0 +1,24 @@
+Modeling, Testing and Verification
+
+- Demands on tools and techniques for
+
+verification and validation of CPS
+
+— Trial—and-error testing (state of the practice) does not provide
+sufficient rigor in error detection
+
+— Formal methods provide a desired level of expressiveness but
+are neither intuitive nor efficient
+
+— Existing simulation tools are limited in their capabilities to jointly
+model physical and cyber components
+
+A Model-based Approach forthe Specinmtion ofa Virtual Power Plant Opeiaring in Open Context, V. Koutsoumpas, TUM, Germany
+
+Towards (May-Physical Systems as Services: the ASIP Pmtoml, M. Bordanl, M. Buttone, B. Fields, N. Gomgiannis, M. Margolis, G. Primieru, F.
+Raimundi, Dcado swap and Middlesex University, United Kingdom
+
+Accelerating Regression Testing for Scaled Sell-Driving Cars with Lightweight \hrtualization — A Case study, ct Berger, University of Gothenburg,
+Sweden
+
+Verification and Validation in qher Physical Systems: Research challenges and a Way Forwal'd, x. Zheng, c. lulien, University of Texas, USA

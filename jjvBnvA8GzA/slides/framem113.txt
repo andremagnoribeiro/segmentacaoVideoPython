@@ -1,0 +1,17 @@
+Uncertainty
+
+- Mastering uncertainty via runtime adaptation
+
+— Need for methods to systematic monitor CPS
+' Some work in the area of requirements monitoring
+' Uncertainty of sensing, data representation, etc.
+
+— Methods for analyzing and planning
+' Decentralization aspect; multi-ownership
+
+— Perpetuability perspective
+- Flexibility by design
+- Adapt when needed
+
+' Return to engineer when goals cannot be achieved
+- Evolve online

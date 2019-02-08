@@ -1,0 +1,16 @@
+Software Engineering for Smart Cyber
+Physical Systems Workshop (SEsCPS)
+
+° Goals
+
+— Increase the understanding of problems ofSE for
+sCPS
+
+— Study the underlying foundational principles for
+engineering sCPS
+
+- E.g., Reasoning about uncertainty, dealing with
+emergent behavior, distributed control
+
+— Identify promising SE solutions for sCPS
+- E.g., Models, engineering processes, integrated V&V

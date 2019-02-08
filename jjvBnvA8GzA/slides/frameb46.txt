@@ -1,0 +1,15 @@
+Software Engineering for Smart Cyber
+Physical Systems Workshop (SEsCPS)
+
+- First edition
+
+— One day event organized at ICSE 2015
+— 19 submissions; 10 papers accepted
+— Morning
+
+° Keynote by David Garlan (CMU)
+- 10 short presentations by participants
+
+— Afternoon
+- Four discussion groups
+- Plenary discussions

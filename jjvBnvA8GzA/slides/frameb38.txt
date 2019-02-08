@@ -1,0 +1,17 @@
+Why Do Traditional SE Approaches
+Not Suffice?
+
+- sCPS are software-intensive systems but
+with many specific challenges:
+
+— Blurring boundaries between hardware and
+software
+
+— Inherent uncertainty
+
+— Large scale and complexity
+— Role of end-users
+
+— Open-endedness
+
+— Strong notion of locality, etc.

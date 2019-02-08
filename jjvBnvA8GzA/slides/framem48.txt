@@ -1,0 +1,22 @@
+Modeling Challenges
+
+° Today’s model-based CPS approaches have
+
+various problems:
+
+— Difficult to integrate the different modeling approaches
+
+— Difficult to make trade-offs and ensure
+consistency/completeness
+
+- Difficult to integrate humans “in the loop”
+
+° Proposed approach:
+
+— Unified representation through extensions of software
+architecture and use of architectural views
+
+— Tools for dependency analysis and coordination
+— Stochastic multi-player games
+
+0 Modeling Challenges for CPS Systems (keynote), David Garlan, CMU, USA

@@ -1,0 +1,17 @@
+Why Do Traditional SE Approaches
+Not Suffice?
+
+- Engineering sCPS requires expertise from
+combination of disciplines
+— Physical, electrical, software
+
+— SW: embedded & real-time systems, distributed
+systems, pervasive computing,
+self—adaptive systems,
+systems of systems, AI, agents,
+
+ 
+
+- How to combine the expertise
+
+in a reliable way is an open question ‘

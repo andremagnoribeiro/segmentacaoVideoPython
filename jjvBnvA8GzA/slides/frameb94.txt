@@ -1,0 +1,19 @@
+Human in the Loop
+
+- What are the effects $0M"
+
+of changes end users 3% ‘ "Mg
+
+introduce to CPS?
+
+— Can the CPS ,,calculate” the costs of adaptation to
+new requirements?
+
+— What are the dependencies of the capabilities of
+CPS on human input?
+
+— How are CPS capable of handling ,,bad” user input
+to assure most effective/efficient operation?
+
+{-
+Q

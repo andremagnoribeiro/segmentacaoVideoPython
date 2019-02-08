@@ -1,0 +1,23 @@
+What are Cyber Physical Systems?
+
+”Engineered systems that are built from, and depend
+upon, the seamless integration of computational and
+physical components” [NSF]
+
+Cola»; '3 ‘Y" ‘
+”Embedded computers and
+networks monitor and
+control the physical ~—
+processes, usually with
+feedback loops where
+physical processes affect
+
+computations and vice
+versa. ” [Lee 2008]
+
+ 
+ 
+ 
+  
+
+. , image Credit: Nicolle Rager Fuller, usr

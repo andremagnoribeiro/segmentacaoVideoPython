@@ -1,0 +1,25 @@
+Collaboration
+
+0 Additional functionality in the
+
+interplay of constituents of CPS
+— E.g., Document and analyze systems on an
+instance level to support automated verification
+at design time and adaptation at runtime
+0 Inherent heterogeneity and distribution of CPS
+
+— Scalability and robustness calls for decentralized approaches
+
+   
+
+— E.g., Domain specific modeling language with code generation
+and runtime environment that supports integration logic
+
+Image neon, mum, the Mr institute in! Software Technology
+
+- Continuous Collaboration: A Case Studv on tne Development of an Adaptive Cyberrthsiul svstern, M. Hdlzl, T. Gabon LMU, Germany
+- collaborating Multiple system Instances ofsmart Cyber-Physical Systems: A Problem situation, solution Idea, and Remaining Research
+
+Challenges, M. mun, J. Brings, 1. Bandyszak, P. Bonn, T. Weyer, University or Duisburg-Essen, Germany
+
+- Taming Heterogeneity and Distribution in 505, E. Marin, F. Fleurey, D. Barais, SINTEF, Norway and lNRlA, Fiance
