@@ -79,8 +79,12 @@ for i in windows:
             if(i==j):
                 contadorFrequenciawindow+=1     
     frequencyOfEachWindow.append([i,contadorFrequenciawindow])
-print("\n numero da window seguido da frequencia que ocorreu em cada window\n")
+
+
+
+print("\n Numero da window seguido da frequencia que ocorreu em cada window\n")
 frequencyOfEachWindow.sort(key = operator.itemgetter(1),reverse=True)
+
 for i in  frequencyOfEachWindow:
     if(i[1]>1):
         print(i)   
@@ -88,6 +92,8 @@ for i in  frequencyOfEachWindow:
 
 W=len(windows)
 print(W)
+
+
 
 
 
