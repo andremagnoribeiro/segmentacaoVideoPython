@@ -24,6 +24,17 @@ Oc=1
 
 
 
+
+Correlation():
+
+PhraseHeight():
+
+Cuewords():
+
+AudioProbability():
+
+VideoProbability():
+
 for p in keysA+keysV:
     k=k+p #Rule 1
 
@@ -40,3 +51,4 @@ for p in keysA+(gramsA-keysA):
 #keyA + negation gramsA that means (keyV + "all grams" - gramsA) ???
 for p in keysV+GramsA
     k=k+{p or VideoProbability(p)>Uv}#Rule 5
+

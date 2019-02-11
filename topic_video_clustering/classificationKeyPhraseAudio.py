@@ -64,37 +64,40 @@ while j < len(listAllWords):
     windows.append(window)
 
 print("\n\n",windows)
-frequencyOfEachWindow=[]
-
-for i in windows:
-    entra = True
-    contadorFrequenciawindow=0
-    for u in frequencyOfEachWindow:
-        if(i==u[0]):
-            entra=False
-            break
-    if(entra):
-        for j in windows:
-            #f=fuzz.ratio(i,j)
-            if(i==j):
-                contadorFrequenciawindow+=1     
-    frequencyOfEachWindow.append([i,contadorFrequenciawindow])
 
 
+pharaseP=[]
 
-print("\n Numero da window seguido da frequencia que ocorreu em cada window\n")
-frequencyOfEachWindow.sort(key = operator.itemgetter(1),reverse=True)
+w=len(windows)
+for p in windows:
 
-for i in  frequencyOfEachWindow:
-    if(i[1]>1):
-        print(i)   
+    μp=-1
+    σp2=-1
 
+    sum1=0
+    for j in windows:
+        if(p==j):
+            sum1+=1 
 
-W=len(windows)
-print(W)
+    μp= sum1/w
 
+    sum2=0
+    for m in window:
+        if(p==j):
+            sum2+=(1 - μp) ** 2
+        else:
+            sum2+=(0 - μp) ** 2
+            
 
+    σp2=sum2/w
 
+    ATDp=μp/(μp+(σp2 ** 2))
 
+    pharaseP.append([[p]+[μp]+[σp2]+[ATDp]])
+    
 
+for i in pharaseP:
+    print(i)
+
+    
 
